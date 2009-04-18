@@ -11,7 +11,7 @@ Clicking the toolbar icon opens the selected file or files if there is a selecti
 Installation
 ------------
 
-Download OpenInTextMate.zip, extract the file somewhere (I keep it in /Applications/Scripts), then drag it onto the Finder toolbar. You'll need to wiggle it a bit for the toolbar to catch on.
+Download zip, extract the file somewhere (I keep it in /Applications/Scripts), then drag it onto the Finder toolbar. You'll need to wiggle it a bit for the toolbar to catch on.
 
 License
 -------
